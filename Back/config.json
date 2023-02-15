@@ -1,0 +1,4 @@
+{
+    "Bucket-name": "Your Amazon S3 bucket name goes here",
+    "Folder-name": "Your Amazon S3 folder name goes here"
+}
